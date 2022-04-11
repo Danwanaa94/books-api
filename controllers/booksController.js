@@ -18,7 +18,7 @@ const getBooks = (req, res)=>{
 
   //delete result
   const deleteBook= (req, res)=>{
-    res.json(books.filter((book)=>book.title!==req.params))
+    res.json(books.filter((book)=>book.title!=req.params))
 }
 
 

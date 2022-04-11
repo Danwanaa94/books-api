@@ -1,6 +1,6 @@
 const books =[ 
     { title : "poor rich dad", authur :"Achebe", publication :"2/3/2000", type:"fiction"},
-    { title : "things fall apart", authur :"Achebe", publication :"2/3/2000", type:"fiction"},
+    { title : "Power Hope", authur :"Ben Carson", publication :"2/3/2000", type:"fiction"},
     { title : "things fall apart", authur :"Achebe", publication :"2/3/2000", type:"fiction"},
     { title : "things fall apart", authur :"Achebe", publication :"2/3/2000", type:"fiction"},
     { title : "things fall apart", authur :"Achebe", publication :"2/3/2000", type:"fiction"},
